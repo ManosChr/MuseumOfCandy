@@ -2,7 +2,7 @@
  
 ## Description
 
-> A responsive landing page developed during the “Web Developer Bootcamp” course on Udemy.com, which utilizes technologies like Bootstrap 4 and jQuery.
+> A responsive landing page developed during the “Web Developer Bootcamp” course on Udemy.com, which is built with Bootstrap 4.
 
 ## Instructions for running locally
 
